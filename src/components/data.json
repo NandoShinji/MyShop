@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1A1",
+        "name": "Bim Bim Chua Cay",
+        "origin": "Việt Nam",
+        "price": 7000
+    },
+    {
+        "id": "1A2",
+        "name": "Bim Bim Hoàng Gia",
+        "origin": "Việt Nam",
+        "price": 70000
+    },
+    {
+        "id": "1A3",
+        "name": "Bim Bim Popcap",
+        "origin": "Việt Nam",
+        "price": 10000
+    },
+    {
+        "id": "1A4",
+        "name": "Bim Bim Thái Lan",
+        "origin": "Thái Lan",
+        "price": 15000
+    }
+]
